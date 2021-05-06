@@ -1,0 +1,7 @@
+server:
+  id: server1
+  port: 8083
+engine:
+  app:
+    name: customer service
+    url: /customer
